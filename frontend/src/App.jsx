@@ -64,7 +64,7 @@ function App() {
         <div className="logo-container">
           <img src="/logo.png" alt="SilverMoonAI Logo" className="logo" />
         </div>
-        <h1>CoupleCoreAI</h1>
+        <h1>SilverMoon </h1>
         <p>Your smart relationship assistant</p>
       </header>
 
