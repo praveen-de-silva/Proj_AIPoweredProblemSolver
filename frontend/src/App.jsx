@@ -126,7 +126,7 @@ function App() {
       )}
 
       <footer className="footer">
-        <p className="footer-text">Upeksha & Praveen | Proj - CoupleCore - AI-Powered Phase | December 2025</p>
+        <p className="footer-text">Upeksha & Praveen | Proj - CoupleCore v2.0 - AI-Powered Phase | December 2025</p>
       </footer>
     </div>
   );
