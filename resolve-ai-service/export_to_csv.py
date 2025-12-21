@@ -1,6 +1,10 @@
 import pandas as pd
 from pymongo import MongoClient
 
+# -----------------------------------------------
+# to create "dataset_original" with original data
+# -----------------------------------------------
+
 # Paste your MongoDB Atlas connection string here
 MONGO_URI = "mongodb+srv://pdsilva496_db_user:4jL8YCFoDnyfeFaY@couple-app.vxmmkoi.mongodb.net/?appName=couple-app"
 
@@ -23,7 +27,7 @@ df = df.drop_duplicates(subset="text")
 
 try:
     # Save to CSV
-    df.to_csv("dataset.csv", index=False)
+    df.to_csv("dataset_original.csv", index=False)
     print(f"✅ Success! Exported {len(df)} unique records to dataset.csv")
 except Exception as e:
     print(f"❌ Failed to export CSV: {e}")

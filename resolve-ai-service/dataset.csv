@@ -1,15 +1,201 @@
-text,predictedCategory,wasHelpful
-My partner do not spent money on my things.,Finances,True
-Sex,Affection,True
-Money,Finances,True
-He never listen to me,General,True
-He always takes my replies as a joke ,General,True
-He cant remember special day,General,True
-He is looking for me less.,General,True
-I need to spend too much for bills,Finances,True
-He doesn't understand what I say but still know everything. ,General,True
-He never washes the dishes,Chores,True
-He never truly listen to me ,General,True
-He never cares me ,General,True
-"When we’re on FaceTime, he’s distracted and doesn’t listen to me",Affection,True
-He doesn't care about our future.,General,True
+text,category
+He did not answer my phone call,Affection
+My partner does not spend money on my things,Finances
+We never have sex anymore,Affection
+We argue about money constantly,Finances
+He never listens to me when I talk,Affection
+He always takes my replies as a joke,General
+He doesn't have time to talk with me,Affection
+He doesn't have time to talk and we are long distance,Affection
+He ignores me when his friends are around,Affection
+He can't remember special days like our anniversary,Affection
+He is looking for me less than before,Affection
+I need to spend too much for bills alone,Finances
+He always gets emotional when I say something,General
+He doesn't understand what I say,General
+He never washes the dishes,Chores
+He never truly listens to me,Affection
+He comments on other girls' posts,Affection
+He never cares about me,Affection
+He is not ready to take responsibility,General
+When we are on FaceTime he is distracted,Affection
+He doesn't care about our future,General
+She says she is right and I am wrong always,General
+He leaves his socks on the floor,Chores
+She spends too much on makeup,Finances
+He refuses to get a job,Finances
+I feel like a maid in my own house,Chores
+He plays video games all day and ignores me,Affection
+She checks my phone while I am sleeping,General
+He is too controlling with who I see,General
+My mother in law hates me,General
+He lied about where he was last night,General
+I don't trust him anymore,General
+He forgot my birthday again,Affection
+She never says I love you,Affection
+He is cheap when we go out for dinner,Finances
+The credit card debt is getting too high,Finances
+He bought a car without asking me,Finances
+She hides her bank account from me,Finances
+I pay for everything in this relationship,Finances
+He never helps with the laundry,Chores
+The house is always a mess and he doesn't care,Chores
+I am tired of picking up after him,Chores
+She refuses to take out the trash,Chores
+He never cooks dinner,Chores
+He acts like a child and I have to mother him,Chores
+He is addicted to gambling,Finances
+She flirts with other guys in front of me,Affection
+He doesn't want to get married yet,General
+We have different life goals,General
+He yells at me when he is angry,General
+She gives me the silent treatment,General
+He criticizes my appearance,General
+He never compliments me,Affection
+We haven't been on a date in months,Affection
+He is always on his phone when we are together,Affection
+She prioritizes her friends over me,Affection
+He is stingy with money,Finances
+We are behind on our rent,Finances
+He spends our savings on useless things,Finances
+She borrows money and never pays it back,Finances
+He expects me to do all the cleaning,Chores
+He leaves wet towels on the bed,Chores
+The kitchen is always dirty because of him,Chores
+He promised to clean the garage but never did,Chores
+She is lazy around the house,Chores
+He is jealous of my male friends,General
+She tries to control what I wear,General
+He gaslights me during arguments,General
+My partner is manipulative,General
+We have communication issues,General
+He is emotionally unavailable,Affection
+She doesn't want to be intimate,Affection
+He rejects me in bed,Affection
+We sleep in separate beds,Affection
+He never holds my hand,Affection
+He is secretive about his finances,Finances
+She makes bad financial decisions,Finances
+We cannot afford a vacation because of his spending,Finances
+He gambled away our rent money,Finances
+He buys expensive gadgets we don't need,Finances
+He never cleans the toilet,Chores
+I have to beg him to help with housework,Chores
+He thinks cleaning is a woman's job,Chores
+She leaves hair in the shower drain,Chores
+He doesn't lift a finger at home,Chores
+He insulted my family,General
+She hates my best friend,General
+He threatens to break up whenever we fight,General
+I feel unsafe when he is angry,General
+He is always negative and complains,General
+He doesn't support my career,General
+She makes fun of me in public,General
+He never asks how my day was,Affection
+I feel lonely even when he is here,Affection
+He doesn't appreciate what I do for him,Affection
+She takes me for granted,Affection
+He only calls me when he wants something,Affection
+He is drowning in debt,Finances
+She shops online too much,Finances
+He won't let me see our bank statements,Finances
+We fight about the budget weekly,Finances
+He thinks I spend too much on groceries,Finances
+He leaves empty food containers everywhere,Chores
+He never makes the bed,Chores
+I am exhausted from doing all the chores,Chores
+She says she is too tired to clean,Chores
+He spills things and doesn't wipe it up,Chores
+He is too close to his ex girlfriend,General
+She stalks her ex on social media,General
+He compares me to his mother,General
+He has a temper problem,General
+She is always the victim,General
+He never apologizes,General
+He doesn't respect my boundaries,General
+I feel unloved and unwanted,Affection
+He pulls away when I try to kiss him,Affection
+She is cold and distant,Affection
+He prefers watching TV to talking to me,Affection
+He never initiates sex,Affection
+He hides his phone screen from me,Affection
+He borrows money from my parents,Finances
+She lost her job and isn't looking for a new one,Finances
+He wastes money on alcohol,Finances
+We can't agree on how to save money,Finances
+He calls me cheap,Finances
+He creates a mess immediately after I clean,Chores
+He never vacuums the floor,Chores
+He expects dinner on the table every night,Chores
+She never waters the plants,Chores
+He refuses to fix things around the house,Chores
+He blames me for everything,General
+She brings up the past in every argument,General
+He is insecure and possessive,General
+He doesn't trust me with his phone,General
+She is always late and doesn't care,General
+He embarrassed me in front of his family,General
+We have nothing in common anymore,General
+He physically pushed me during a fight,General
+He makes me feel stupid,General
+He never supports my dreams,General
+He spends more time at work than with me,Affection
+She doesn't like cuddling,Affection
+He forgot Valentine's Day,Affection
+He never says thank you,Affection
+I feel like a roommate not a partner,Affection
+He invests in risky business schemes,Finances
+She uses my credit card without asking,Finances
+He is bad with money management,Finances
+We are living paycheck to paycheck,Finances
+He refuses to talk about our financial future,Finances
+He leaves the toilet seat up,Chores
+He never changes the bed sheets,Chores
+The bathroom is disgusting because of him,Chores
+He throws clothes on the chair instead of the closet,Chores
+He refuses to hire a cleaner but won't help,Chores
+He accused me of cheating,General
+She is paranoid about me leaving,General
+He is verbally abusive,General
+He gives me anxiety,General
+We have lost the spark,General
+He is bored of me,Affection
+She rolls her eyes when I talk,General
+He interrupts me constantly,General
+He makes decisions without consulting me,General
+She is overly dramatic,General
+He spends too much on subscriptions,Finances
+She has a shopping addiction,Finances
+He didn't pay the electricity bill on time,Finances
+He asks for money constantly,Finances
+He is financially irresponsible,Finances
+He never does the grocery shopping,Chores
+He forgets to feed the pets,Chores
+He leaves dirty dishes in the bedroom,Chores
+I do 100 percent of the housework,Chores
+He claims he doesn't know how to clean,Chores
+He doesn't want to spend time with my family,General
+She hates my hobbies,General
+He tries to change who I am,General
+He is always right and I am always wrong,General
+He doesn't defend me,General
+He rarely looks me in the eye,Affection
+She is physically distant,Affection
+He doesn't text me back for hours,Affection
+He stopped saying goodnight,Affection
+He is indifferent to my feelings,Affection
+He bought a motorcycle without telling me,Finances
+She maxed out our credit cards,Finances
+He has secret debts,Finances
+He refuses to share expenses,Finances
+He is stingy with gifts,Finances
+He tracks mud into the house,Chores
+He never dusts the furniture,Chores
+He leaves toothpaste in the sink,Chores
+He refuses to mow the lawn,Chores
+He acts helpless so I will do it for him,Chores
+He is disrespectful to my parents,General
+She gossips about our relationship,General
+He threatens to leave me,General
+He is a narcissist,General
+She plays mind games,General
