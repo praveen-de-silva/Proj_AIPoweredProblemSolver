@@ -11,7 +11,7 @@ collection = db["problemlogs"]     # your collection name
 
 # Fetch required fields only
 data = list(collection.find(
-    {},
+    {}, # "wasHelpful": True - if only to get the required items
     {"_id": 0, "text": 1, "predictedCategory": 1, "wasHelpful": 1}
 ))
 
